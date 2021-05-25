@@ -7,7 +7,11 @@
 int main()
 {
 //Write your code below this line
-
+int L1 , L2 ;
+L1 = 10 ;
+L2 = 20 ;
+printf("L1=%d\n",L1);
+printf("L2=%d\n",L2);
 
 
 return 0;
